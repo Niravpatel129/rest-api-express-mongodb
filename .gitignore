@@ -1,0 +1,5 @@
+/.vscode/
+/logs/*
+!/logs/.gitkeep
+/node_modules/
+/.env
